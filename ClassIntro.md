@@ -7,7 +7,7 @@ General information for the class
 #### Schedule
 
 - The class runs from 10:00am to 4:45pm EDT May 12-15, 2025
-- One-hour lunch from 1:00 to 2:00 EDT
+- One-hour lunch from 1:00 to 1:45 EDT
 - Mid-morning and mid-afternoon 15 minutes breaks
     - No fixed time, depends on the flow of discussion
     - Approximately halfway through each session
